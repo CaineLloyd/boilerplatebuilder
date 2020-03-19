@@ -21,7 +21,7 @@ Add popular JavaScript to your project. Defer and Async
 
 Add SEO tags, CSS files, advanced tags and more.
 
-- Adding multiple custom link tags, dns-prefetch
+- Adding multiple custom link tags, dns-prefetch, cross origin, media, integrity
 - Adding multiple custom CSS refernece link tags
 
 Customize page settings
